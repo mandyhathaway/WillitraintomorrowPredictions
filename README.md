@@ -1,2 +1,2 @@
 # WillitraintomorrowPredictions
-This is a very simple into to data handeling and model building project. 
+This is a very simple intro to data handling and model-building project. 
